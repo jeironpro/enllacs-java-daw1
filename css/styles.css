@@ -1,0 +1,24 @@
+* {
+    font-family: 'Fredoka', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    display: block;
+    list-style: circle;
+}
+
+ul li {
+    padding: 3px 0;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li a:visited {
+    color: #f54302;
+}
